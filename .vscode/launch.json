@@ -1,0 +1,39 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        {   
+            "name": "Microsoft cloud sandbox",
+            "type": "al",
+            "request": "launch",
+            "environmentType": "Sandbox",
+            "environmentName": "Alce_Test_Sandbox",
+            "tenant": "b0b9c81c-6684-40dd-b037-57901fe546ef",  
+            "startupObjectId": 22,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "port": 18049,
+            "schemaUpdateMode": "Synchronize"
+
+
+            // "name": "Your own server",
+            // "request": "launch",
+            // "type": "al",
+            // "environmentType": "OnPrem",
+            // "server": "http://localhost",
+            // "serverInstance": "BC180",
+            // "authentication": "Windows",
+            // "startupObjectId": 22,
+            // "startupObjectType": "Page",
+            // "breakOnError": true,
+            // "launchBrowser": true,
+            // "enableLongRunningSqlStatements": true,
+            // "enableSqlInformationDebugger": true,
+            // "tenant": "default",
+            // "port": 18049
+        }
+    ]
+}

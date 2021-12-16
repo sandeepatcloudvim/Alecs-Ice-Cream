@@ -1,0 +1,34 @@
+{
+  "id": "dc98179f-c5e2-40a9-837a-20267f053d2b",
+  "name": "Alecs Ice Cream",
+  "publisher": "CBR Technology",
+  "version": "18.0.0.9",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "appId": "fa77d6f1-9c9d-44be-a9c5-cbfa8109bd15",
+      "name": "Lolliland_BC",
+      "publisher": "Nexon Asia Pacific Pty Ltd",
+      "version": "1.0.0.51"
+
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 99999
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://AlecsIceCream.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
